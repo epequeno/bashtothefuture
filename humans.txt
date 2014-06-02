@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# bashtothefuture.com
+
+# TEAM
+
+    Estevan Pequeno -- Lead -- @epequeno
+    Ben Haynie -- Graphic Design -- @benjamindhaynie
+
+# THANKS
+
+    ODB
+    Mallory Hernandez - Name and Domain Name
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
