@@ -105,7 +105,10 @@ body {
     background: #222;
 }
 
-
+#logo {
+     height: 75%;
+     width: 75%;
+}
 
 
 
